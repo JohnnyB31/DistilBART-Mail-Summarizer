@@ -1,0 +1,1 @@
+Mat wants to test the send key process for obtaining the Socal hourly storage postings by following specific keystrokes. Ronggen offers to help by showing him some lines to experiment with SendKeys if VB6 is installed; otherwise, Ronggen will meet with him after 2pm.

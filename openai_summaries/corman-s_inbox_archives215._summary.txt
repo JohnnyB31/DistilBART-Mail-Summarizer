@@ -1,0 +1,1 @@
+Rick Dietz is asked by Michael Ratner to provide data on the average throughput for four pipes in 2001, based on a suggestion from Kevin Howard and referencing an attached slide.

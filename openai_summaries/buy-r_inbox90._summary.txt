@@ -1,0 +1,1 @@
+Raymond Bowen wants to discuss or meet to differentiate between asset sales, book liquidations, and other transaction types. David Gorte is working on revising the DASH template to better handle asset divestitures, contract terminations, and amendments, with the new template expected early next week.

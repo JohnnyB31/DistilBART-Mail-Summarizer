@@ -1,0 +1,1 @@
+All tests were completed but problems were encountered with accessing Flow Gas testing. The Business Objects On-call was notified and an update will be provided. After Lori Saffer accessed the application, retesting was successful. The Exchange servers are up.

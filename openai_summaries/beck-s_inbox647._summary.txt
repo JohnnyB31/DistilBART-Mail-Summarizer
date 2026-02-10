@@ -1,0 +1,1 @@
+The email thread provides streaming video statistics for Ken Lay's video, showing a total of 7,487 successful connections from various cities, with Houston and international locations having the highest numbers. The web server statistics can be viewed at the provided URL.

@@ -1,0 +1,1 @@
+Francis Lim is confused about index curves and asks Jason Wolfe for clarification. Jason clarifies that current month's index curves will be set soon and won't change. Francis explains Gas Daily Curves are loaded daily, but Index curves are loaded later by others and he cannot get them.

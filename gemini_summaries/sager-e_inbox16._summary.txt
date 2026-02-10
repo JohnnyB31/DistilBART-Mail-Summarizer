@@ -1,0 +1,20 @@
+Input:
+    FROM: michael.tribolet@enron.com
+TO: elizabeth.sager@enron.com
+Subject:FW: Wednesday Staff Meeting Time Change to 10:00am for Next Two, Weeks
+
+-----------------------------
+FROM: Metoyer, Pam
+TO: DL-RAC Underwriting
+SUBJECT: Wednesday Staff Meeting Time Change to 10:00am for Next Two Weeks
+
+Please Note:
+Conference Room EB2831 is unavailable for the next two weeks.  Therefore the Underwriting Staff Meeting will take place @ 10:00am in Conference Room EB2868 for Wednesday October 31 and Wednesday, November 7.
+Please adjust your calendars accordingly.
+-----------------------------
+Triggers:
+    "{'words': 'Meeting will take place', 'indices': '18 19 20 21'}",
+    "{'words': 'Please adjust', 'indices': '38 39'}"
+
+Output:
+    The Underwriting Staff Meeting will take place at 10:00am in Conference Room EB2868 on October 31 and November 7, as Conference Room EB2831 is unavailable. Attendees should adjust their calendars.

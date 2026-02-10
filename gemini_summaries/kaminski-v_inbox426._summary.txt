@@ -1,0 +1,1 @@
+The Gas Weather Group has special needs for two Linux Met Boxes to be set up by Monday morning. Weekend work is scheduled for Saturday and Sunday with two people, and critical users will be tested on Sunday from 3 PM to 6 PM. Adam will provide the MAC address for MET 1, and Kevin Moore will create a list of testers.

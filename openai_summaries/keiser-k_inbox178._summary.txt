@@ -1,0 +1,1 @@
+Ramesh asked to inactivate new natural gas books in risktrac, which Cecilia confirmed are already created in Erms without an activation field. John provided a summary file and noted some books are inactive until assigned a trader. The team is coordinating to manage the books' status.

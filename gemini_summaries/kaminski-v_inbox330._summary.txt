@@ -1,0 +1,1 @@
+The Calgary office needs an option model for a strip of daily spread options. Zimin explains that the Ostrip model can be modified by replacing the EURO() function with Spdopt(). Lon confirms the need for this function to value existing and new deals. Lon would like to speak to Zimin tomorrow about the specifications. Zimin estimates a one-week delivery timeline.

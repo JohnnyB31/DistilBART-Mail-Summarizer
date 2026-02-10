@@ -1,0 +1,1 @@
+The email discusses pressure measurements at the Bloomfield La Plata Check measurement facility, noting pressure drops across components and suggesting inspections and potential replacements. It also recommends using El Paso Blanco pressure for pipeline tuning instead of Bloomfield suction pressure.

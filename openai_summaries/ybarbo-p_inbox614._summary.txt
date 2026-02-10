@@ -1,0 +1,1 @@
+The team addressed a 1-part rate problem with PMN K# 27606. The invoices were corrected and faxed to the customer. Dennis changed the flag last week to create a credit for the commodity, but the system still isn't doing so. Craig asked for the contract/invoice to be re-pathed to ensure the 1-part flag is recognized.

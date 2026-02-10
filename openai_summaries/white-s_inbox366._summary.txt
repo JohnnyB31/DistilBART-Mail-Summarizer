@@ -1,0 +1,1 @@
+Maria requested access to a directory containing sensitive power data to automate data collection for traders. Stacey clarified the data is in M:\power2\region and asked her to resubmit a read-only request for the correct directory. The request was approved via an internal approval system.

@@ -1,0 +1,1 @@
+Jason's index curves for the current month will be set soon and remain unchanged for the month. Next month's curves can be loaded later. Gas Daily Curves are loaded daily around 6AM or 11AM, but index curves are loaded by others at 3PM or 4PM, so Jason cannot get those curves in real-time. He can only get yesterday's index curves.

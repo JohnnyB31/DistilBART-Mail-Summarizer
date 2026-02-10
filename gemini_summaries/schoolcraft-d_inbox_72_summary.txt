@@ -1,0 +1,1 @@
+Steve Richards fixed the flow control valves on the PNM Rio Puerco interconnect, but Gas Control can not change the flow direction. Johnnie Nelson also repaired the flow direction controls.

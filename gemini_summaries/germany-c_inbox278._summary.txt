@@ -1,0 +1,1 @@
+Corey Grindal informs Scott Goodell and Chris Germany of following imbalances on their PALs: K#36621 (1,783 Dth long), K#37001 (2 Dth Long), K#37875 (1 Dth Long), and K#37876 (-1780 Short). Scott Goodell asks what leg they are out of balance on. Corey Grindal wants to know how they want to resolve the imbalances.

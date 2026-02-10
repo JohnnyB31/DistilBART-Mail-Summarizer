@@ -1,0 +1,1 @@
+Kim is working on a problem with two reports in the East package where the MTD AVG is skewed upwards. She has contacted Yan and hopes for a fix soon. She has also asked Yan where to find the interactive CUBE.

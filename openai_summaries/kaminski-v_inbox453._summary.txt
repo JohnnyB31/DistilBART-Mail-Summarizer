@@ -1,0 +1,1 @@
+Visit Phunnarungsi is seeking advice on estimating the mean reversion rate for electricity prices. He has modeled Queensland electricity prices using a specific model and followed a referenced paper, but his results show a positive slope, which is unexpected. He has tried different data frequencies and still cannot estimate the mean reversion rate.

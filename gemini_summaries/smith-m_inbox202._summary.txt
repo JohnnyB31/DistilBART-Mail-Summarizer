@@ -1,0 +1,1 @@
+Matt wants to test the send key process for Socal hourly storage postings. Ronggen asks if Matt has VB6 installed and offers to show him how to do an experiment to see if SendKeys work, or Matt can come to Ronggen's desk after 2pm. Matt previously searched and found a file related to "VB6." Matt asks Ronggen to take a look at it.

@@ -1,0 +1,1 @@
+The sender requests a table of plant names and unique ISO or WSCC codes to cross-reference outage data, and provides an attached file named "Generator resource IDs.xls." The sender also mentions waiting for a response to a previous email sent one month ago and provides contact information for further questions.

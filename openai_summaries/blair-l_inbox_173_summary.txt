@@ -1,0 +1,1 @@
+Tim asked if it's possible to see hourly data exceeding 1,900 on specific days. Jodie provided a spreadsheet for LS Power's hourly rates from 12/20/01 to 6/17/01, with a column indicating hours that exceeded 1900. Dale confirmed the data and offered to retrieve earlier data if needed.

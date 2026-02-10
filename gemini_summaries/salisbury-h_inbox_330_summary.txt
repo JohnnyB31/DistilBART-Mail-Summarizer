@@ -1,0 +1,1 @@
+Zhiyun explained to Heather the research group's method for evaluating an index option with different index and delivery regions, contrasting it with the current portcalc method.

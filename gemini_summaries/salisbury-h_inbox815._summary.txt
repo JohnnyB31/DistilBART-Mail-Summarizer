@@ -1,0 +1,1 @@
+Will asked Nikolay to investigate how the PCS calculates demand charges for Transmission deals. Heather is seeking Will's thoughts on how a monthly demand charge would calculate, specifically for a Transmission deal that was split into three strips due to daylight savings.

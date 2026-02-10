@@ -1,0 +1,1 @@
+The file at \\gthou-dv01\common\mkt\oma\sumdec01.xls, used daily by Marketing and Finance, was lost and needs to be restored from the 12/28/01 backup. Mike Bodnar requested the restoration, which requires director approval. The ETS Solution Center has been notified, and a high priority Remedy ticket #37225 has been opened.

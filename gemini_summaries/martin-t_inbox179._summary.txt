@@ -1,0 +1,1 @@
+Jim Pond needs to provide Bammel working gas volumes to David Baumbach for ENA to HPLC. David Baumbach needs to coordinate the execution of a confirm and deal ticket. This is needed to consolidate inventory within HPLC for the sale of working gas to AEP. This has not happened yet, and is causing issues with ENA and HPLC having separate balances.

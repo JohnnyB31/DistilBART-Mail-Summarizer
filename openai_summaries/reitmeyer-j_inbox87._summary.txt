@@ -1,0 +1,1 @@
+The registration system is now operational, but the default "Enter" key cannot be changed, so a warning was posted. Jay suggests fixing this so the form requires clicking the submit button. Bruno recommends starting to promote the online registration to other church groups and the public.

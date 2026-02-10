@@ -1,0 +1,1 @@
+Dale provided Jodie with LS Power Whitewater's hourly rates from 12/20/01 to 6/17/01. The attached file indicates if the hour exceeded 1900.0 mcf per hour. Tim asked if it's possible to indicate the amount that exceeded 1,900 on an hourly basis.

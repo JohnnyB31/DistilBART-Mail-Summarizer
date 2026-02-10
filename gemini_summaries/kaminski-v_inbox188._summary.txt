@@ -1,0 +1,1 @@
+Tom has extracted crude trades from Clayton's database and a spreadsheet is available in O:\Research\Common\From_BobLee\crudewti.eol.get. A cleaner version is being worked on. Bob Lee is asking for ideas on how to analyze the data. The attachment below has a description of the data fields.

@@ -1,0 +1,1 @@
+PwC created a comprehensive position report with data from the gas mid-office that checks gas curve positions each Friday from 11-30-01 to 2-1-02. The report can be found at O:\CurveValidation\Estate Reporting\Gas\Position Roll-off report.

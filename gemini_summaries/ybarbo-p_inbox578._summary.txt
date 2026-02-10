@@ -1,0 +1,1 @@
+Chuck Thompson sent an email to Rick Smith with notes on strategies discussed on Monday regarding TW and PNM meetings. Thompson suggested investigating orifice plates and meter run changes for TW, speeding up pid response on TW regulators, and PNM providing flow-control and shut-in sequences. He also recommended investigating joint venture ultrasonic installation.

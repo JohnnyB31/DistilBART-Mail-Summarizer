@@ -1,0 +1,1 @@
+Paul asks Krishna for an option pricing model and attached data regarding spread valuation. Krishna explains how to access option values using the exotica.xll addin in Excel and refers Paul to the "Results" sheet for calculations.

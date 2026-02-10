@@ -1,0 +1,1 @@
+The database has been migrated to a new server, and access to the old server has been disabled. The team is investigating an issue with report access and will communicate a plan tomorrow. Known users, including Justin's group and Jay, will be targeted for updates.

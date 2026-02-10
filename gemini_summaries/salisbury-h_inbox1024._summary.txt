@@ -1,0 +1,1 @@
+WACM has implemented a new scheduling package and sent a reminder about how loss energy tags for delivery to WACM are to be completed. Lynn Richardson is working with WACM Operations staff to see if real-time transaction loss energy can be accepted concurrent with the real-time transaction.

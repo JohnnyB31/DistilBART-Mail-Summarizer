@@ -1,0 +1,1 @@
+John is notifying recipients about new books for UBS Energy, some of which are inactive due to a missing trader. Cecilia confirms the books are created in Erms and advises users not to use inactive ones. Ramesh suggests inactivating books in risktrac and asks for confirmation. A file named "Summary of Book Requests.xls" is attached.

@@ -1,0 +1,1 @@
+Joe requested market indications for the trunkline STX basis and index for the period Jun 02 - Dec 07. Gilbert provided the index indications: for Texas, index-1 / index+1; for Louisiana, index flat / index +1.

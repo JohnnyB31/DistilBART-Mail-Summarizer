@@ -1,0 +1,1 @@
+Jayshree Desai summarized a meeting request for Vince Kaminski detailing needed analyses on volatilities, correlations, and economic capital for various commodities and financial instruments, with Jaesoo Lew providing initial data on curve shift P&L and prompt month volatility for GAS and POWER.

@@ -1,0 +1,1 @@
+Bradley Holmes wants to investigate keeping outbound TMS messages and Critical Notices flowing during virus interruptions because ETS customer communications were disrupted for 8 hours. Jean McFarland will continue to work with the messaging team to put together guidelines and will keep everyone posted.

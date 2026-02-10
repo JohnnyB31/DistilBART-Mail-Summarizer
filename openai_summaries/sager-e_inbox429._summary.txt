@@ -1,0 +1,1 @@
+Enron's Scheduling Coordinator ID changed from EPMI to ENRJ effective December 11, 2001. All related scheduling transactions from December 2 to December 11 will be manually adjusted in ISO settlements.

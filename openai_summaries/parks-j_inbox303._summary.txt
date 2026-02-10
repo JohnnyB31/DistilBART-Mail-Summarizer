@@ -1,0 +1,1 @@
+Joe asked Gilbert to check if basis and index values have changed since the last check and to refresh the NYMEX indication. Gilbert reports that the basis remains unchanged, and the NYMEX indication is about 3.721 for June 2002 - December 2007.

@@ -1,0 +1,1 @@
+Todd is providing Dan with a list of companies supplying electricity at specific locations, and offers to get more details if needed. Dan forwards this information to Bill.

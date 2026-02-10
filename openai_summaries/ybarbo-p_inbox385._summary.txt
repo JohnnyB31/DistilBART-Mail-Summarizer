@@ -1,0 +1,1 @@
+Krishna provided instructions on how to access and analyze spread data for Kim, including loading an Excel add-in and viewing the "Results" sheet. Paul sent data files and asked about the math for valuing options on spreads, as well as requesting an option pricing model. He also inquired if Krishna recalled previous work done for Kim Watson.

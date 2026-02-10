@@ -1,0 +1,1 @@
+The Calgary office needs an option model to price a strip of daily spread options. They plan to modify the existing Ostrip model by replacing the EURO() function with Spdopt(). Lon wants to speak to Paulo directly tomorrow about specifications. The timeline for delivery is about one week.

@@ -1,0 +1,1 @@
+Jayant Krishnaswamy explains there is a bug in Sitara when duplicate counterparty names exist. He is not doing code enhancements but requests assistance in avoiding duplicate names until the issue is resolved.

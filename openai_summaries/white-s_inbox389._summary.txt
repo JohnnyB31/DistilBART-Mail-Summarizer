@@ -1,0 +1,1 @@
+Stacey W. asked Andrea Dahlke to send or tell her the location of the ERCOT Imbalance spreadsheet provided by Michael, as she has a meeting on Friday to review data sharing between the volume management and risk groups. Andrea informed her that the data is located at M\EServices\Ercot\Risk\Ercot Imbalance and offered to help.

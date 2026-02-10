@@ -1,0 +1,1 @@
+Sherry Noack confirms that the MDQ for contract 35874 is 16373, which was released by execution. Chris Germany believes the MDQ should be 4723 with specific primary receipt points. The key issue is the discrepancy in MDQ values between their sources.

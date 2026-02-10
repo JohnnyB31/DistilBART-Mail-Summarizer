@@ -1,0 +1,1 @@
+Sanjeev Gupta has announced a new version of the TAGG Deal Capture Application is available for testing on TAGG STAGE, with modifications requested by Errol McLaughlin regarding expiration dates. Sanjeev will request migration to production on or after November 7th if testing is successful, and he asks Errol to confirm if he has had a chance to test it.

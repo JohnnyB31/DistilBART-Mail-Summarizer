@@ -1,0 +1,1 @@
+Monique asked Yan to release the EPNG map from testing to the main west ops area after she checked it and it appeared to be working properly. Yan moved the map to Desks->West Desk->West Map and asked Monique to check it.

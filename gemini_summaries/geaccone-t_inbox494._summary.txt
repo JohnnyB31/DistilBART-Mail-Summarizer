@@ -1,0 +1,1 @@
+Steve needs help reconciling data from the "Database" worksheet of the Earnings Model with the "AnnualStats.xls" file provided by John. Rod and Kyle are also seeking help to match information in their respective files to the provided data, and Kyle specifically needs volume and rate information on Northern Natural.

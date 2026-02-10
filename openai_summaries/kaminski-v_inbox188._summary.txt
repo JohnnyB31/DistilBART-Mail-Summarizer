@@ -1,0 +1,1 @@
+The email discusses the extraction of crude trades from Clayton's database, with a spreadsheet available for review. A description of the data fields is provided, and team members are encouraged to suggest analysis ideas.

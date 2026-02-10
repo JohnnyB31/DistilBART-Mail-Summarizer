@@ -1,0 +1,1 @@
+The ISO is implementing changes effective December 12, 2001, at 23:59, including suspending 10-minute dispatch for energy supplied on ties and altering the payment process for inter-tie bids to ensure they are dispatched throughout the entire hour and paid the Instructed Energy Price. Market participants are instructed to pass this information to relevant departments.

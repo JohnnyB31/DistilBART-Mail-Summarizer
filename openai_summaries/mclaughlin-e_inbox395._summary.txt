@@ -1,0 +1,1 @@
+Sanjeev asked Errol if he has tested the changes in the TAGG Deal Capture Screen. The new version is available for testing under TAGG STAGE with modifications, including that the options/Swaptions expiry date must be determined by the Nymex reference pub code. Sanjeev plans to request migration to production after November 7th if testing is successful.

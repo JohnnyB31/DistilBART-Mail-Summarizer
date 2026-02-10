@@ -1,0 +1,5 @@
+Triggers:
+    "{'words': 'Anticipated approval is', 'indices': '20 21 22'}"
+
+Output:
+    The TW/NNG Gray storage point filing is anticipated to be approved by October 31st, with no expected delays.

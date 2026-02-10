@@ -1,0 +1,1 @@
+Colin requested a time estimate for a detailed analysis of plant outage data, referencing an attached file. Matt outlined the task to calculate outage capacity sums by various subgroups (Fuel_Designation, WSCCRegion, OutageReason) over a date range, with about 70 subgroupings per day. Colin emphasized the need to do this as soon as possible.
